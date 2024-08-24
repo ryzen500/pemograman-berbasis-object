@@ -1,0 +1,13 @@
+UML Tes Tugas 2 
+
++---------------------+
+|      Mobil          |
++---------------------+
+| - merek: String     |
+| - model: String     |
+| - tahun: int        |
+| - warna: String     |
+| - kapasitasMesin: int|
++---------------------+
+| + infoMobil(): void  |
++---------------------+
