@@ -1,0 +1,9 @@
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/InventoryApp.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/interfaces/CrudOperations.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/models/Barang.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/models/BarangPerishable.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/models/BaseEntity.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/models/StokOpname.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/models/Supplier.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/models/Transaksi.java
+/home/tsany/NetBeansProjects/inventoryProject/src/main/java/com/mycompany/inventoryproject/models/utils/DatabaseConnection.java

@@ -1,0 +1,10 @@
+com/mycompany/inventoryproject/models/utils/DatabaseConnection$Connector.class
+com/mycompany/inventoryproject/models/BarangPerishable.class
+com/mycompany/inventoryproject/models/BaseEntity.class
+com/mycompany/inventoryproject/models/utils/DatabaseConnection.class
+com/mycompany/inventoryproject/models/Transaksi.class
+com/mycompany/inventoryproject/models/StokOpname.class
+com/mycompany/inventoryproject/models/Supplier.class
+com/mycompany/inventoryproject/InventoryApp.class
+com/mycompany/inventoryproject/models/Barang.class
+com/mycompany/inventoryproject/interfaces/CrudOperations.class
